@@ -10,11 +10,11 @@
 想到自己每天都在用微信，弄个微信推送生日信息应该就能提前看到了~
 
 ### 2022/12/28 Updates:
-添加 Github Actions 每日触发
+添加 Github Actions 每日触发+
 
 ### 使用方法
 #### 步骤1
-f....fork me for free
+f....fork me for free?
 
 #### 步骤2
 回到自己fork的项目下，Settings/secrets 下添加 BIRTH_DATA 和 SERVERCHAN_SECRETKEY
